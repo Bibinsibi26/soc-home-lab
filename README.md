@@ -18,14 +18,14 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 <h2>📁 Repository Structure</h2>
 
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#network-diagrams-of-the-lab-setup">• /Architecture: Network diagrams of the lab setup.</a>
+<a href="https://github.com/Bibinsibi26/soc-home-lab/blob/main/README.md#network-diagrams-of-the-lab-setup">• /Architecture: Network diagrams of the lab setup.</a>
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-configuration-files-splunk-forwarding">• /Custom inputs.conf and outputs.conf files.</a>
+<a href= "https://github.com/Bibinsibi26/soc-home-lab/blob/main/README.md#-custom-inputsconf-and-outputsconf-files">• /Custom inputs.conf and outputs.conf files.</a>
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-installation-guide-splunk-enterprise-windows">. /Installation Guide: Splunk Enterprise (Windows)</a>
+<a href="https://github.com/Bibinsibi26/soc-home-lab/blob/main/README.md#%EF%B8%8F-installation-guide-splunk-enterprise-windows">. /Installation Guide: Splunk Enterprise (Windows)</a>
 
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#-conclusion">. /conclusion </a>
+<a href="https://github.com/Bibinsibi26/soc-home-lab/blob/main/README.md#-conclusion">. /conclusion </a>
 
 
 
@@ -36,7 +36,6 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
   <img src="https://github.com/Bibinsibi26/soc-home-lab/raw/b3c24ef7b0e0e0d8b0f9d25a0e5ef3fd46c22453/WhatsApp%20Image%202026-02-18%20at%205.46.06%20PM.jpeg" width="600">
 </p>
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-installation-guide-splunk-enterprise-windows">link text</a>
 
 <h2>• /Custom inputs.conf and outputs.conf files.</h2>
 
