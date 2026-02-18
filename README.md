@@ -4,7 +4,7 @@ SOC Home Lab: Splunk SIEM & Log Analysis
 
 This project aims to establish a functional SOC environment to ingest, analyze, and monitor logs from multiple endpoints. By configuring a Universal Forwarder on Ubuntu to send data to Splunk Enterprise on Windows, I simulated real-world log telemetry and built custom detection rules.
 
-🛠️ Tools Used
+  🛠️ Tools Used
 
 • SIEM: Splunk Enterprise (Windows)
 
@@ -13,3 +13,17 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 • Agent: Splunk Universal Forwarder
 
 • Networking: VirtualBox/VMware Host-Only Adapter
+
+📁 Repository Structure
+
+• /Architecture: Network diagrams of the lab setup.
+
+• /Configs: Custom inputs.conf and outputs.conf files.
+
+• /Detections: Documentation of Splunk SPL queries and alerts.
+
+• /Scripts: Scripts used for log generation or automation.
+
+Network diagrams of the lab setup
+
+
