@@ -38,6 +38,8 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 
 <a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-installation-guide-splunk-enterprise-windows">link text</a>
 
+<h2>• /Custom inputs.conf and outputs.conf files.</h2>
+
 
 In this lab, the communication between the Ubuntu Endpoint and the Windows SIEM is governed by two critical configuration files located on the Ubuntu Universal Forwarder (UF).
 
