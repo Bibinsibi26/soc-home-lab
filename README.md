@@ -20,7 +20,7 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 
 <a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#network-diagrams-of-the-lab-setup">• /Architecture: Network diagrams of the lab setup.</a>
 
-<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-configuration-files-splunk-forwarding">• /Configs: Custom inputs.conf and outputs.conf files.</a>
+<a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-configuration-files-splunk-forwarding">• /Custom inputs.conf and outputs.conf files.</a>
 
 <a href="https://github.com/Bibinsibi26/soc-home-lab/edit/main/README.md#%EF%B8%8F-installation-guide-splunk-enterprise-windows">. /Installation Guide: Splunk Enterprise (Windows)</a>
 
