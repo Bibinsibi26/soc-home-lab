@@ -27,3 +27,8 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 Network diagrams of the lab setup
 
 
+<p align="center">
+  <img src="https://github.com" width="400">
+</p>
+
+
