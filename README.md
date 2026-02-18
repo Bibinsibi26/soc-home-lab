@@ -53,6 +53,12 @@ Purpose: This file tells the Universal Forwarder where to send the data.
 • Port: It specifies Port 9997, which is the default Splunk receiving port.
 
 • Function: Without this, the logs would just sit on the Ubuntu VM with nowhere to go.
+    
+    [tcpout]
+    defaultGroup = primary_indexers
+    
+    [tcpout:primary_indexers]
+    server = 192.168.56.10:9997
 
 
 <h3>2.Inputs.conf</h3>
@@ -66,6 +72,11 @@ Purpose: This file tells the Universal Forwarder what data to collect.
 • Index: It assigns the data to a specific index (like main or a custom linux_logs index) to keep the SIEM organized.
 
 • Sourcetype: It labels the data so Splunk knows how to parse it (e.g., sourcetype = linux_secure).
+
+    [monitor:///var/log/auth.log]
+    index = security_logs
+    sourcetype = linux_secure
+
 
 <h2>🛠️ Installation Guide: Splunk Enterprise (Windows)</h2>
 
@@ -101,6 +112,8 @@ Purpose: This file tells the Universal Forwarder what data to collect.
 7. Accessing the Web Interface
 
 • Open your browser and go to: http://localhost:8000 (or the IP of your VM).
+
+    http://localhost:8000 
 
 • Log in using the credentials you created in Step 3.
 
