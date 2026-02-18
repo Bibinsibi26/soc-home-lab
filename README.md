@@ -37,7 +37,7 @@ This project aims to establish a functional SOC environment to ingest, analyze, 
 </p>
 
 
-<h2>• /Custom inputs.conf and outputs.conf files.</h2>
+<h2>Custom inputs.conf and outputs.conf files.</h2>
 
 
 In this lab, the communication between the Ubuntu Endpoint and the Windows SIEM is governed by two critical configuration files located on the Ubuntu Universal Forwarder (UF).
